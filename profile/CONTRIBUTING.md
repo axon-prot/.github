@@ -82,7 +82,7 @@ If a repository requires extra setup or has language‑specific tooling, include
 
 ## Code of Conduct
 
-Please follow the project's [Code of Conduct](https://github.com/axon-prot/.github/blob/main/CODE_OF_CONDUCT.md) when interacting with the community.
+Please follow the project's [Code of Conduct](https://github.com/axon-prot/.github/blob/main/profile/CODE_OF_CONDUCT.md) when interacting with the community.
 
 ---
 

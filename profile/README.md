@@ -7,7 +7,7 @@ The protocol is defined in the [axon‑prot/spec](https://github.com/axon-prot/s
 
 ## Contributing
 
-All contributions across the organization follow the same workflow. See the top‑level [CONTRIBUTING.md](https://github.com/axon-prot/.github/blob/main/CONTRIBUTING.md) for the complete process.
+All contributions across the organization follow the same workflow. See the top‑level [CONTRIBUTING.md](https://github.com/axon-prot/.github/blob/main/profile/CONTRIBUTING.md) for the complete process.
 
 
 ---
